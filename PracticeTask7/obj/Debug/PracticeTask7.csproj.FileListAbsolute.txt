@@ -1,0 +1,7 @@
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\bin\Debug\PracticeTask7.exe.config
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\bin\Debug\PracticeTask7.exe
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\bin\Debug\PracticeTask7.pdb
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\obj\Debug\PracticeTask7.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\obj\Debug\PracticeTask7.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\obj\Debug\PracticeTask7.exe
+C:\Users\Алексей\Desktop\уч практика\PracticeTask7\PracticeTask7\obj\Debug\PracticeTask7.pdb
